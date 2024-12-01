@@ -1,0 +1,73 @@
+* {
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+div {
+    height: 10vh;
+    background-color: red;
+    color: white;
+    text-align: center;
+}
+div>p {
+    position: relative;
+    font-size: 50px;
+    top: 20px;
+}
+.h1 {
+    position: sticky;
+    height: 50px;
+    text-align: center;
+    padding: 10px;
+    top: 0;
+    color: white;
+    background-color: black;
+}
+
+.c1 {
+    background-color: blanchedalmond;
+    height: 400px;
+}
+.h2 {
+    position: sticky;
+    height: 50px;
+    text-align: center;
+    padding: 10px;
+    top: 0;
+    color: white;
+    background-color: black;
+}
+
+.c2 {
+    background-color: blanchedalmond;
+    height: 400px;
+}
+.h3 {
+    position: sticky;
+    height: 50px;
+    text-align: center;
+    padding: 10px;
+    top: 0;
+    color: white;
+    background-color: black;
+}
+
+.c3 {
+    background-color: blanchedalmond;
+    height: 400px;
+}
+.h4 {
+    position: sticky;
+    height: 50px;
+    text-align: center;
+    padding: 10px;
+    top: 0;
+    color: white;
+    background-color: black;
+}
+
+.c4 {
+    background-color: blanchedalmond;
+    height: 600px;
+}
